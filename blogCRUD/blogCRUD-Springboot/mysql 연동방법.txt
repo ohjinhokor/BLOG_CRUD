@@ -1,0 +1,6 @@
+1. mysql 연동 방법
+
+mysql 라이브러리 다운로드
+//application.properties 설정
+build.gradle설정
+-> url 설정 잘하기 id에 u는 포함안됨.
